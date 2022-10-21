@@ -10,15 +10,15 @@ function Home() {
                     <img
                         src="https://i.ibb.co/xLRMvF7/cover.jpg"
                         alt=""
-                        className="home_image"
+                        className="home_image img"
                     />
                     <h1>Our Products</h1>
-                    <div className="parent">
+                    <div className="parent grandParent">
                         <div className="home_row">
                             <Product
                                 id="1"
                                 title="Google Pixel 6 Pro 5G (Stromy Black, 12GB RAM, 128GB Storage)"
-                                price={64990}
+                                price={24990}
                                 rating={3}
                                 image="https://i.ibb.co/MB1QTm9/pixel-6-pro-black-buds-desktop-Web-P-Format-488-context-b-WFzd-GVyf-HJvb3-R8-MTc1-Mj-B8a-W1h-Z2-Uvd2.webp"
                             />
@@ -39,7 +39,7 @@ function Home() {
                             <Product
                                 id="4"
                                 title="Men's Regular Fit Cotton Casual Shirt"
-                                price={1299}
+                                price={1199}
                                 rating={2}
                                 image="https://i.ibb.co/Zg3z7Jr/fashion-hugo-boss-sportswear-model-winter-men-s-jeans-e9c1c5ea107eada47b26981e63cdd045.png"
                             />
@@ -53,7 +53,7 @@ function Home() {
                             <Product
                                 id="6"
                                 title="Acer One 14 Business Laptop AMD Ryzen 3 3250U Processor (8GB RAM/256GB SSD/AMD Radeon Graphics/Windows 11 Home) Z2-493 with 35.56 cm (14.0) HD Display"
-                                price={57490}
+                                price={57410}
                                 rating={4}
                                 image="https://i.ibb.co/6Jbtb55/699131.png"
                             />
